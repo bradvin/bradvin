@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+![Bradvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradvin&show_icons=true&theme=radical)
+
+## 🔭 I’m currently working on ...
+
+* [FooPlugins](https://fooplugins.com)
+* [PageSpike.ai](https://pagespike.ai)
+
+📫 How to reach me ...
+
+[bradvin.link](https://bradvin.link)
+
 <!--
 **bradvin/bradvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
