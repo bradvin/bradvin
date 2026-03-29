@@ -7,3 +7,4 @@
 * [FooPlugins](https://fooplugins.com)
 * [PageSpike.ai](https://pagespike.ai)
 * [PAYGSEO.com](https://paygseo.com)
+* [agentfirst.directory](https://agentfirst.directory)
